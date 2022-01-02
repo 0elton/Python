@@ -11,6 +11,7 @@ multiplicacao = a * b
 resto = a % b
 
 
+
 print(f'''###USANDO F-STRING###\nO valor da soma é: {soma}\nO valor da subtracao é: {subtracao}\nO valor da multiplicação é: {multiplicacao} ''')
 print('\n###USANDO String format###\nO valor da divisão é: {} com resto igual a {}'.format(divisao, resto))
 
