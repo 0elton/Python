@@ -1,7 +1,7 @@
 
 
 
-a = int(input('OPERAÇÕES COM DUAS VARIAVEIS NUMERICAS:\nDigite o  valor de A: '))
+a = int(input('OPERAÇÕES COM DUAS VARIAVEIS NUMÉRICAS:\nDigite o  valor de A: '))
 b = int(input('Digite o  valor de B: '))
 
 soma = a + b
